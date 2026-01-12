@@ -24,4 +24,57 @@ All structure arises internally from operator relations, noncommutativity, and s
 
 This reframes geometry as:
 - intrinsic rather than embedded,
-- relational rather than me
+- relational rather than metric-first,
+- enforced rather than evolved.
+
+---
+
+## Key Contributions
+
+- Introduces **operator geometry** as a primary mathematical object
+- Defines distance, curvature, and causality spectrally
+- Replaces global time with **local algebraic causality**
+- Interprets curvature as noncommutativity
+- Introduces the **SMRK Hamiltonian** as a global geometric constraint
+- Reinterprets arithmetic structure as a source of curvature
+
+---
+
+## Relativistic Structure Without Time
+
+The framework mirrors relativity by:
+- eliminating global clocks,
+- replacing temporal order with partial orders induced by noncommutation,
+- defining causality algebraically rather than temporally.
+
+This allows a consistent notion of relativistic computation without spacetime.
+
+---
+
+## Arithmetic as Geometry
+
+Prime numbers and multiplicative structure appear as:
+- sources of operator curvature,
+- contributors to spectral stress-energy,
+- intrinsic geometric features rather than external data.
+
+This establishes a deep link between arithmetic and geometry.
+
+---
+
+## Relation to QFC
+
+This paper provides the **geometric backbone** of Quansistor Field Computing:
+- explains why causality is algebraic,
+- why global consistency replaces evolution,
+- why enforcement replaces dynamics.
+
+It is a central theoretical pillar of QFC.
+
+---
+
+## Status
+
+Major foundational theory paper.  
+Conceptually complete and structurally central.
+
